@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FCInfoApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">The Mazda RX-7 is a sports car produced by the Japanese automaker Mazda from 1978 to 2002.  The second generation was produced from 1985 to 1991 and is referred to
+    as an FC RX-7.  This is because all the chassis codes for this generation started with the letters FC.  </string>
+    <string name="specifications">
+        Engine-               2 Rotor Wankel    \n
+        Power-                150HP Naturally Aspirated/ 200HP Turbo    \n
+        Wheelbase-	          2,431 mm (95.7 in)    \n
+        Length-	              1986-88: 4,290 mm (168.9 in)  \n
+                              1989–1991: 4,315 mm (169.9 in)    \n
+        Width-      	      1,689 mm (66.5 in)    \n
+        Height-     	      1,265 mm (49.8 in)    \n
+        Curb weight-	      1,223–1,413 kg (2,696–3,115 lb)   \n
+        Weight distribution-  50F/50R   \n
+    </string>
+</resources>
